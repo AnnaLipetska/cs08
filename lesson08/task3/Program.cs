@@ -34,7 +34,7 @@ namespace task3
             if (emp != null)
             {
                 Console.WriteLine($"{emp.Name} - {emp.Age}");
-            }
+            } 
 
             if (empAttr != null)
             {
